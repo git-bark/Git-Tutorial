@@ -5,11 +5,13 @@ int main() {
 	int a, b;
 	cin >> a >> b;
 
-	cout << a + b;
+	cout << a + b; // add
 
-	cout << a - b;
+	cout << a - b; // sub
 
-	cout << a * b;
+	cout << a * b; // mul
+
+	cout << a / b; // div 
 
 	return 0;
 }
