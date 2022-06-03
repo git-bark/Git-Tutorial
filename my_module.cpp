@@ -13,7 +13,5 @@ int main() {
 
 	cout << a / b; // div 
 
-	cout << a / b;
-
 	return 0;
 }
